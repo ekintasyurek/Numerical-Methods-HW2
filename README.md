@@ -1,1 +1,1 @@
-# Numerical-Methods-HW2
+# Power Method and SVD
